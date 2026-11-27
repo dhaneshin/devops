@@ -33,7 +33,6 @@ viewToggle.addEventListener('click', () => {
   renderChannels();
 });
 
-// The period selector demonstrates interaction; all figures remain sample values.
 periodSelect.addEventListener('change', () => {
   const days = Number(periodSelect.value);
   const scale = days / 30;
