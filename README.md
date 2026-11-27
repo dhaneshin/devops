@@ -2,7 +2,7 @@
 
 A small static dashboard for demonstrating app acquisition metrics and a beginner Git/GitHub workflow. It uses plain HTML, CSS, and JavaScript—no dependencies or build step.
 
-> This dashboard uses illustrative sample data for learning Git workflows.
+> This dashboard uses fictional sample data for demonstrating app growth metrics.
 >
 > Every performance and audience value shown is fictional; it is not a claim about a real app, advertiser, or market statistic.
 
